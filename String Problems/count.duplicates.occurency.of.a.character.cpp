@@ -27,4 +27,5 @@ int main()
     char s[100];
     cin.getline(s,100);
     CountDuplicates(s);
+    return 0;
 }
